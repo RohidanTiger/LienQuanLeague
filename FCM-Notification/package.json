@@ -1,0 +1,15 @@
+{
+  "name": "fcm-notification",
+  "version": "1.0.0",
+  "description": "Push notification message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "push",
+    "notification"
+  ],
+  "author": "QuyDV",
+  "license": "ISC"
+}
